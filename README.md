@@ -31,7 +31,7 @@ pkg install python3 -y
 git clone https://github.com/mdnurnobirazz/BloodshotGuardiansDDoS.git
 cd BloodshotGuardiansDDoS
 pip install tqdm
-python3 RDDoS.py
+python3 BGDDoS.py
 ```
 
 
