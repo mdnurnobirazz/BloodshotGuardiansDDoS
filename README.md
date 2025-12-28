@@ -32,3 +32,11 @@ https://github.com/mdnurnobirazz/BloodshotGuardiansDDoS.git
 cd BloodshotGuardiansDDoS
 pip install tqdm
 python3 RDDoS.py
+```
+
+#Usage
+Select target (domain or IP)
+Choose port mode
+Start simulation
+Monitor live stats
+Press CTRL+C to safely stop
