@@ -34,9 +34,12 @@ pip install tqdm
 python3 RDDoS.py
 ```
 
+
+
 ## Usage
-Select target (domain or IP)
-Choose port mode
-Start simulation
-Monitor live stats
-Press CTRL+C to safely stop
+
+- Select target (domain or IP)
+- Choose port mode
+- Start simulation
+- Monitor live stats
+- Press CTRL+C to safely stop
