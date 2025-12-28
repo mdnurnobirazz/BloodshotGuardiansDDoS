@@ -107,7 +107,7 @@ def print_banner():
 print_banner()
 
 print(f"{GREEN}Author: {RED}{BOLD}Bloodshot Guardians Team{RESET}")
-print(f"CommunitEnterCYAN}https://m.me/cm/Aba2oO9MIf6q4YYi/?send_source=cm%3Acopy_invite_link{RESET}")
+print(f"Community: {CYAN}https://m.me/cm/Aba2oO9MIf6q4YYi/?send_source=cm%3Acopy_invite_link{RESET}")
 print("Purpose: Legal & Ethical Penetration Testing Only\n")
 
 # Menu Loop
@@ -163,7 +163,7 @@ while True:
     if choice == 'y':
         use_specific_port = True
         try:
-            target_port = int(input(f"{CYAN}Enter Open portt : {RESET}"))
+            target_port = int(input(f"{CYAN}Enter Open port : {RESET}"))
             break
         except:
             print(f"{RED}Invalid! Default 80.{RESET}")
