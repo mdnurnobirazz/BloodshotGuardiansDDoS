@@ -34,7 +34,7 @@ pip install tqdm
 python3 RDDoS.py
 ```
 
-#Usage
+## Usage
 Select target (domain or IP)
 Choose port mode
 Start simulation
